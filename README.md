@@ -1,2 +1,2 @@
 # Number--Counter
-a simple application to increment ,decrement and reset numbers.😊
+an application for increment ,decrement and reset numbers.😊
