@@ -1,0 +1,26 @@
+#counter{
+ display: block;
+ text-align: center;
+ font-size: 10em;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+#btncounter{
+    text-align: center;
+}
+
+.btn1{
+    padding: 10px 20px;
+    font-size:1.5em;
+    color:white;
+    background-color: hsl(214, 80%, 74%);
+    border-radius:5px;
+    cursor:pointer;
+    transition:background-color 0.25s;
+
+
+}
+
+.btn1:hover{
+    background-color:hsl(214, 72%, 18%);
+}
