@@ -67,9 +67,5 @@ Building this small project helped me practice and understand:
 - GitHub: [@priyankaa-m001](https://github.com/priyankaa-m001)
 - LinkedIn: [priyanka-mhaske](https://linkedin.com/in/priyankamhaske)
 
-
----
-⭐ If you found this helpful, consider giving it a star!mhaske)
-
 ---
 ⭐ If you found this helpful, consider giving it a star!
